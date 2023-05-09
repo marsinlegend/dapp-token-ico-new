@@ -6,15 +6,6 @@
 
 > Opinionated Dapp Starter Template
 
-## 🏠 [Homepage](https://dapp-token-ico.productsway.com)
-
-## ✨ [Demo](https://token-ico-demo.productsway.com)
-
-[![Blockchain - DApp 101 - ICO Smart Contract](https://img.youtube.com/vi/9fmViThaMGk/0.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
-
-## One click deployment
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f6mr8o?referralCode=-GINmA)
 
 ## Screenshot
 
